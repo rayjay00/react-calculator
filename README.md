@@ -16,6 +16,8 @@ This calculator is built using React Hooks and uses the the npm math package to 
 
 -A couple unneeded boolean props
 
-### Enahancements
+### Enhancements
 
 -Make it work with keyboard input
+
+-Look into custom hooks
